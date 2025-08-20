@@ -23,5 +23,6 @@ Over 9,000 tweets were collected using Twitter’s API to examine public sentime
 
 Click the badge below to launch the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/alanaahart/Build-Project-Tweet-Lens/blob/main/Build%20Project_Twitter_Ahart_Alana(1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alanaahart/Build-Project-Tweet-Lens/blob/main/Build%20Project_Twitter_Ahart_Alana(1).ipynb)
+
 
