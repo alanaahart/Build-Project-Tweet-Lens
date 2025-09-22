@@ -4,7 +4,7 @@
 
 Project Overview:
 
-Over 9,000 tweets were collected using Twitter’s API to examine public sentiment and emotional tone surrounding tourism and overtourism. Sentiment and emotion analysis were applied to uncover patterns in recent posts. Due to developer subscription constraints, tweets were retrieved within a one week window and capped at 10,000 tweets per month. Despite these limitations, the project aimed to capture a snapshot of current public attitudes and identify emerging trends in the conversation around tourism.
+Over 9,000 tweets were collected using X's API to examine public sentiment and emotional tone surrounding tourism and overtourism. Sentiment and emotion analysis were applied to uncover patterns in recent posts. Due to developer subscription constraints, tweets were retrieved within a one week window and capped at 10,000 tweets per month. Despite these limitations, the project aimed to capture a snapshot of current public attitudes and identify emerging trends in the conversation around tourism.
 
 ## 🛠️ Tools Used
 
